@@ -30,24 +30,24 @@ results/
 ## Results
 ### 4-Class Classification
 <figure>
-    <img src="results/4-acc.png" width=48%>
-    <img src="results/4-f_1.png" width=48%>
+    <img src="results/4-acc.png" width=45%>
+    <img src="results/4-f_1.png" width=45%>
 </figure>
 
 ### 2-Class Classification
 <figure>
-    <img src="results/2-acc.png" width=48%>
-    <img src="results/2-f_1.png" width=48%>
+    <img src="results/2-acc.png" width=45%>
+    <img src="results/2-f_1.png" width=45%>
 </figure>
 
 ### Example for Thrust Force Prediction
 <figure>
-    <img src="results/force-1.png" width=48%>
-    <img src="results/force-2.png" width=48%>
+    <img src="results/force-1.png" width=45%>
+    <img src="results/force-2.png" width=45%>
 </figure>
 
 ### Example for Cutterhead Torque Prediction
 <figure>
-    <img src="results/torque-1.png" width=48%>
-    <img src="results/torque-2.png" width=48%>
+    <img src="results/torque-1.png" width=45%>
+    <img src="results/torque-2.png" width=45%>
 </figure>
